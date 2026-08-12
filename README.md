@@ -1,4 +1,4 @@
-# Alerta de Prazo — Conexão Corporativa
+# Alerta de Prazo - Conexão Corporativa
 
 Sistema de automação para envio de alertas por e-mail quando o prazo de uma demanda está se aproximando ou já foi ultrapassado. Integrado ao Google Sheets via **Google Apps Script**.
 
@@ -172,8 +172,8 @@ Assunto: [Conexão Corporativa] Alerta de Prazo — TEMPO ESGOTADO
 
 Ao salvar o gatilho pela primeira vez, o Google solicitará autorização para:
 
-- **Gmail** — enviar e-mails em seu nome
-- **Planilhas Google** — ler os dados da planilha
+- **Gmail** - enviar e-mails em seu nome
+- **Planilhas Google** - ler os dados da planilha
 
 Essas permissões são necessárias para o funcionamento do script.
 
